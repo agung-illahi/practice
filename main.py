@@ -6,3 +6,4 @@ def cetak(a):
 cetak("hello world")
 test.angka(1)
 hello.hello("dini ")
+a = "hai"
